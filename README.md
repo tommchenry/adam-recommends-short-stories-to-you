@@ -1,13 +1,13 @@
 # Adam Recommends Short Stories To Read At Work
 
 ## The Tweet
-<img src="https://noncanon-comics.s3.amazonaws.com/img/Screenshot+2019-06-07+16.54.59.png" width="600">
+<img src="https://noncanon-comics.s3.amazonaws.com/img/Screenshot+2019-06-07+16.54.59.png" width="400">
 
 [Original Tweet](https://twitter.com/juskewitch/status/1132125726793244678)
 
 ---
 
-## The Stories Adam Has Recommended Thus Far
+## The Stories Adam Has Recommended So Far
 
 - ["The Octopus"](https://prtcls.com/article/the-octopus/) by Nathan Goldman  
 - ["Exhalation"](http://www.lightspeedmagazine.com/fiction/exhalation/) by Ted Chiang
