@@ -19,5 +19,5 @@
 - ["Incarnations of Burned Children"](https://www.esquire.com/entertainment/books/a500/incarnations-burned-children-david-foster-wallace-0900/) by David Foster Wallace 
 - ["Human Moments in World War III"](https://granta.com/human-moments-in-world-war-iii/) by Don DeLilo 
 - ["Sensini"](http://www.barcelonareview.com/63/e_rb.html) by Roberto Bolaño 
-- ["In the Cemetery Where Al Jolson is Buried"](http://fictionaut.com/stories/amy-hempel/in-the-cemetery-where-al-jolson-is-buried.pdf) by Amy Hempel (I'm here)
+- ["In the Cemetery Where Al Jolson is Buried"](http://fictionaut.com/stories/amy-hempel/in-the-cemetery-where-al-jolson-is-buried.pdf) by Amy Hempel
 
