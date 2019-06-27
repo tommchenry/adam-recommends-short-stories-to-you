@@ -24,3 +24,4 @@
 - ["Sea Oak"](http://barcelonareview.com/20/e_gs.htm) by George Saunders
 - ["L. Debard and Aliette"](https://www.theatlantic.com/magazine/archive/2006/08/l-debard-and-aliette/305035/) by Lauren Groff 
 - ["Little Things"](https://www.wsfcs.k12.nc.us/cms/lib/nc01001395/centricity/domain/796/little_things.pdf) by Raymond Carver
+- ["Redeployment"](https://www.businessinsider.com/redeployment-phil-klay-2014-7) by Phil Klay
