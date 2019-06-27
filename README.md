@@ -25,3 +25,4 @@
 - ["L. Debard and Aliette"](https://www.theatlantic.com/magazine/archive/2006/08/l-debard-and-aliette/305035/) by Lauren Groff 
 - ["Little Things"](https://www.wsfcs.k12.nc.us/cms/lib/nc01001395/centricity/domain/796/little_things.pdf) by Raymond Carver
 - ["Redeployment"](https://www.businessinsider.com/redeployment-phil-klay-2014-7) by Phil Klay
+- ["The Girl I Hate"](http://www.postroadmag.com/27/fiction/awad.phtml) by Mona Awad
