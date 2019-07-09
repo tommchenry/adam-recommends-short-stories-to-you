@@ -29,3 +29,4 @@
 - ["The Circular Ruins"](http://users.clas.ufl.edu/burt/KafkaKierkegaardBible/BorgesTheCircularRuins.pdf) by Jorge Luís Borges
 - ["The Problem With Moving"](https://www.shortstoryproject.com/story/the-problem-with-moving/) by Jessica Hollander
 - ["Friends"](https://www.vice.com/en_us/article/vdxb94/read-a-story-from-lucia-berlins-a-manual-for-cleaning-women-0810) by Lucia Berlin
+- ["American Express"](https://classic.esquire.com/article/1988/2/1/american-express) by James Salter
