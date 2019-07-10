@@ -31,3 +31,4 @@
 - ["Friends"](https://www.vice.com/en_us/article/vdxb94/read-a-story-from-lucia-berlins-a-manual-for-cleaning-women-0810) by Lucia Berlin
 - ["American Express"](https://classic.esquire.com/article/1988/2/1/american-express) by James Salter
 - ["t zero"](http://www.ruanyifeng.com/calvino/2011/02/t_zero_en.html) by Italo Calvino
+- ["A Good Scent from a Strange Mountain"](http://www.nereview.com/files/2018/06/Butler-GoodScent.pdf) by Robert Olen Butler
