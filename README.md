@@ -34,3 +34,4 @@
 - ["A Good Scent from a Strange Mountain"](http://www.nereview.com/files/2018/06/Butler-GoodScent.pdf) by Robert Olen Butler
 - ["The Possibility of Evil"](http://greermiddlecollege.org/wp-content/uploads/2016/08/The-Possibility-of-Evil-by-Shirley-Jackson.pdf) by Shirley Jackson
 - ["The Love Machine"](https://granta.com/the-love-machine/) by Julia Elliott
+- ["Hysteria"](https://www.therupturemag.com/the-collagist/2019/3/26/hysteria.html) by Liz Breazeale
