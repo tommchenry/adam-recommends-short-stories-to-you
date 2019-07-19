@@ -36,3 +36,4 @@
 - ["The Love Machine"](https://granta.com/the-love-machine/) by Julia Elliott
 - ["Hysteria"](https://www.therupturemag.com/the-collagist/2019/3/26/hysteria.html) by Liz Breazeale
 - [“Snow Blind”](https://www.vqronline.org/fiction/snow-blind) by Elizabeth Strout
+- ["Some Zombie Contingency Plans"](http://www.johnjosephadams.com/the-living-dead/free-stories-excerpts/some-zombie-contingency-plans-by-kelly-link/) by Kelly Link
