@@ -37,3 +37,8 @@
 - ["Hysteria"](https://www.therupturemag.com/the-collagist/2019/3/26/hysteria.html) by Liz Breazeale
 - [“Snow Blind”](https://www.vqronline.org/fiction/snow-blind) by Elizabeth Strout
 - ["Some Zombie Contingency Plans"](http://www.johnjosephadams.com/the-living-dead/free-stories-excerpts/some-zombie-contingency-plans-by-kelly-link/) by Kelly Link
+
+## Stories I Have Recommended Adam
+
+- ["Younger"](https://arthurmag.com/2009/08/11/younger-a-new-short-story-by-brian-evenson/) by Brian Evenson
+- ["The Oranging of America"](https://media.sas.upenn.edu/pennsound/misc/hennessey/Postmodern-Winter-09/Apple-Max_The-Oranging-of-America.pdf) by Max Apple
