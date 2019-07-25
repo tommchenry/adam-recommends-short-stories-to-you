@@ -43,3 +43,4 @@
 - ["Younger"](https://arthurmag.com/2009/08/11/younger-a-new-short-story-by-brian-evenson/) by Brian Evenson
 - ["The Oranging of America"](https://media.sas.upenn.edu/pennsound/misc/hennessey/Postmodern-Winter-09/Apple-Max_The-Oranging-of-America.pdf) by Max Apple
 - ["Referential"](https://www.telegraph.co.uk/culture/books/10668431/A-new-short-story-by-Lorrie-Moore-Referential.html) by Lorrie Moore
+- ["Harvest"](https://www.pifmagazine.com/1998/09/the-harvest/) by Amy Hempel
