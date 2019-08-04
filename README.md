@@ -45,3 +45,7 @@
 - ["Referential"](https://www.telegraph.co.uk/culture/books/10668431/A-new-short-story-by-Lorrie-Moore-Referential.html) by Lorrie Moore
 - ["Harvest"](https://www.pifmagazine.com/1998/09/the-harvest/) by Amy Hempel
 - ["The Girl Who Did Not Know Fear"](https://tinhouse.com/the-girl-who-did-not-know-fear/) by Kelly Link
+
+## Adam Continues Recommending Stories
+
+- ["A Very Old Man with Enormous Wings"](https://www.ndsu.edu/pubweb/~cinichol/CreativeWriting/323/MarquezManwithWings.htm) by Gabriel Garcia Marquez
